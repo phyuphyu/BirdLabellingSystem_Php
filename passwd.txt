@@ -1,0 +1,1 @@
+adminx:x:2003:2003::/home2/myanmat7/mail/myanmartimeline.net/adminx:/home2/myanmat7

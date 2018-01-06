@@ -1,0 +1,23 @@
+myanmartimeline.net/public_html/birdlabelling
+
+FTP Info
+
+ftp.myanmartimeline.net
+birdlabelling@myanmartimeline.net
+Coyay@2017
+
+++++++++++++++++++++++++++++++
+MySQL Database info
+
+DB Name:  myanmat7_bird_labelling
+DB User Name:	myanmat7_bb
+PW:	Coyay@2017
+
+++++++++++++++++++++++++++++++
+Server Cpanel
+URL: bluehost.com
+user name: myanmartimeline.net
+PW: Irrawaddy@2018*
+
+
+URL: http:birdlabelling.myanmartimeline.net
