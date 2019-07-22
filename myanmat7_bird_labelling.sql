@@ -80,9 +80,9 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`u_id`, `u_first_name`, `u_last_name`, `u_password`, `u_confirm_password`, `u_email`, `u_gender`, `u_type`) VALUES
-(1, 'Phyu', 'Kyaw', '123', '', 'phyulwin88@gmail.com', '', 'AD'),
-(16, 'Jen', 'Stephens', 'Ouse38', 'Ouse38', 'jens.s@kinect.co.nz', 'F', 'N'),
-(15, 'Baby', 'Pwasi', '123456@789', '123456@789', 'moonlynn88@gmail.com', 'M', 'N');
+(1, 'Phyu', 'Kyaw', '123', '', 'phyulwin@gmail.com', '', 'AD'),
+(16, 'Jn', 'hens', 'Ouse38', 'Ouse38', 'k@kico.nz', 'F', 'N'),
+(15, 'By', 'Pwasi', '123456@789', '123456@789', 'moo8@gmail.com', 'M', 'N');
 
 -- --------------------------------------------------------
 
